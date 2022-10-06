@@ -3,13 +3,7 @@
 🔭 Training in cloud development & AWS and presently working on ideas for my next project.
 
 🌱 Learning overview: 
-Unix                     Python
-Shell scripting          JSON/YAML
-Docker                   VSCode
-Terraform                Git workflow,
-Infrastructure as Code   Markdown
-
- , Pair Programming, API & REST, Kanban & Scrum, Amazon S3 & further Cloud Storage Solutions, EC2 & further Cloud Computing Solutions, Amazon RDS and further Cloud Database Solutions, SQL, NoSQL, Autoscaling, Elastic Load balancing, Amaxon Cloudfront CDN, Data SecurityIAM, Security compliance... 
+Unix, Shell scripting, Docker, Terraform, Infrastructure as Code, Python, JSON/YAML, VSCode, Git workflow, Markdown, Pair Programming, API & REST, Kanban & Scrum, Amazon S3 & further Cloud Storage Solutions, EC2 & further Cloud Computing Solutions, Amazon RDS and further Cloud Database Solutions, SQL, NoSQL, Autoscaling, Elastic Load balancing, Amaxon Cloudfront CDN, Data SecurityIAM, Security compliance... 
 
 👯 Open to collaborating on interesting projects of any kind, and my special interest lies in automotive, creative industry & arts (film, dance...)
 
