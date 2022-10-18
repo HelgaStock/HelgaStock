@@ -1,6 +1,6 @@
 ### Hi there, I'm Helga! ✌️
 
-🔭 Training in cloud development & AWS and presently working on ideas for my next project.
+🔭 Trainee Cloud Developer & AWS Practitioner, presently working on ideas for my next project.
 
 🌱 Learning overview: 
 Unix, Shell scripting, Docker, Terraform, Infrastructure as Code, Python, JSON/YAML, VSCode, Git workflow, Markdown, Pair Programming, API & REST, Kanban & Scrum, Amazon S3 & further Cloud Storage Solutions, EC2 & further Cloud Computing Solutions, Amazon RDS and further Cloud Database Solutions, SQL, NoSQL, Autoscaling, Elastic Load balancing, Amaxon Cloudfront CDN, Data SecurityIAM, Security compliance... 
