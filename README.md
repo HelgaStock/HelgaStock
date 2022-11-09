@@ -5,7 +5,7 @@
 🌱 Learning overview: 
 Unix, Shell scripting, Docker, Terraform, Infrastructure as Code, Python, JSON/YAML, VSCode, Git workflow, Markdown, Pair Programming, API & REST, Kanban & Scrum, Amazon S3 & further Cloud Storage Solutions, EC2 & further Cloud Computing Solutions, Amazon RDS and further Cloud Database Solutions, SQL, NoSQL, Autoscaling, Elastic Load balancing, Amaxon Cloudfront CDN, Data SecurityIAM, Security compliance... 
 
-👯 Open to collaborating on interesting projects of any kind, and my special interest lies in automotive, creative industry & arts (film, dance...)
+👯 My special interest relates to security - data security, cyber security, compliance, threat mitigation, etc.
 
 ⚡ Fun fact: ... I am a trained cinematographer and familiar with film industry workflows. I like to be hands-on and work on set as much as in post processes
 
